@@ -1,0 +1,6 @@
+hello word 
+print
+for
+while
+do
+word
